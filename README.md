@@ -28,9 +28,9 @@ with open("text.txt","r") as fp:
     print("No of words in the file",count)
 ```
 ## OUTPUT:
-![textfile](text.png)
+![projectfile](./pro.png)
 
-![outptut](output.png)
+![output](./op.png)
 
 
 ## RESULT:
