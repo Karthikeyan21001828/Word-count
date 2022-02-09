@@ -30,7 +30,7 @@ with open("text.txt","r") as fp:
 ## OUTPUT:
 ![textfile](text.png)
 
-![outptu](output.png)
+![outptut](output.png)
 
 
 ## RESULT:
