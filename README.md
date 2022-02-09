@@ -30,7 +30,7 @@ with open("text.txt","r") as fp:
 ## OUTPUT:
 
 ![op](https://user-images.githubusercontent.com/93427303/153131190-c2a553b9-64fd-47ed-84ef-02550584efa7.PNG)
-
+## TEXT FILE:
 ![pro](https://user-images.githubusercontent.com/93427303/153131246-6df5f19d-a4c9-47e2-b49a-81e2cbbbaef1.PNG)
 
 
