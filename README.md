@@ -28,7 +28,7 @@ with open("text.txt","r") as fp:
     print("No of words in the file",count)
 ```
 ## OUTPUT:
-![projectfile](C:\Users\karth\OneDrive\Documents\python\EX10\Word-count/pro.png)
+![projectfile](./pro.png)
 
 ![output](./op.png)
 
